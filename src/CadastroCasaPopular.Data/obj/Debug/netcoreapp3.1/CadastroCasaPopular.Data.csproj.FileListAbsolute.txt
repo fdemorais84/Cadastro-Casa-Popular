@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Data.deps.json
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Data.runtimeconfig.json
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Data.runtimeconfig.dev.json
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Data.dll
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Data.pdb
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.dll
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.pdb
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.csproj.CopyComplete
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.dll
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.pdb
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Data\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Data.genruntimeconfig.cache

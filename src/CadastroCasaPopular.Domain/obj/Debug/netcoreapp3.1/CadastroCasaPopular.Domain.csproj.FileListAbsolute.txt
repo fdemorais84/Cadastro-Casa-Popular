@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.deps.json
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.runtimeconfig.json
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.dll
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\bin\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.pdb
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.dll
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.pdb
+C:\Users\User\Desktop\Teste-Acesso\CadastroCasaPopular\src\CadastroCasaPopular.Domain\obj\Debug\netcoreapp3.1\CadastroCasaPopular.Domain.genruntimeconfig.cache
